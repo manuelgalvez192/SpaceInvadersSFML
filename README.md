@@ -1,5 +1,5 @@
 # SpaceInvadersSFML
-space invaders created in c++ with sfml
+Space invaders created in c++ with sfml
 
 This project contains the classic Space Invaders game created with the SFML libraries in C++.
 When you download it you will have all the folders and the CMakeLists.txt file configured to be able to run it without problems.
